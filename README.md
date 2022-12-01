@@ -1,16 +1,23 @@
-### Hi there 👋
+Rendering The Universe 📡👨‍💻👨‍🔬
 
-<!--
-**Gayana-Thathsara/Gayana-Thathsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>&nbsp;<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Gayana-Thathsara&show_icons=true&theme=tokyonight&locale=en" alt="Gayana Thathsara" /></p>
 
-Here are some ideas to get you started:
+Interests : 
+- C/C++
+- JavaScript
+- PHP
+- SQL
+- Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other :
+- HTML/CSS
+- Kotlin
+- Ruby 
+
+![my activity-graph](https://github-readme-activity-graph.dogexia.repl.co/graph?username=Gayana-Thathsara&theme=xcode)
+
+
+<!---
+Gayana-Thathsara/Gayana-Thathsara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
