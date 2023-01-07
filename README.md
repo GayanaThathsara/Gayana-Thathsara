@@ -14,7 +14,7 @@ Other :
 - Kotlin
 - Ruby 
 
-![my activity-graph](https://github-readme-activity-graph.dogexia.repl.co/graph?username=Gayana-Thathsara&theme=xcode)
+![my activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gayana-Thathsara&theme=xcode)
 
 
 <!---
